@@ -1,0 +1,12 @@
+  Windows Kernel Tutorial 002 - Writing a Simple Driver:
+1) Write a Simple Driver
+   a) DriverEntry
+   b) Unload
+2) Change Properties
+   a) Configuration Manager > Active Solution Platform > x64
+   b) C/C++ > Treat Warnings as Errors > NO (/WX-)
+   c) C/C++ > Warning Level > Level1 (/W1)
+   d) Linker > Treat Linker Warning As Errors > NO (/WX:NO)
+   e) Driver Settings > Target OS Version > Windows 10
+   f) Driver Settings > Target Platform > Desktop   
+3) Build Solution
